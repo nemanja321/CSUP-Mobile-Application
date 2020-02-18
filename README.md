@@ -1,4 +1,4 @@
-About Aplication
+Project Overview
 
 An application that makes it easy to buy online bus tickets Without waiting in lines and with one click it solves everything
 I had some basis from last year but I changed everything and almost made a brand new application (the basis was for a taxi, and this is for bus tickets)
@@ -9,3 +9,7 @@ He calculates the price of your trip by clicking on pay and reservation
 It opens the next Layout for you to choose what you want to pay with Paypal or credit card
 In the end, you are thrown out of your ticket, which can later be scanned into the bus and not hold drivers' time
 It is possible to add gps on buses as well as this option of bus monitoring.
+
+Logical View
+
+<img src="https://imgur.com/TuEXhFx.png">
