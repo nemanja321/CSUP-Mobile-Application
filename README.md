@@ -12,4 +12,8 @@ It is possible to add gps on buses as well as this option of bus monitoring.
 
 Logical View
 
-<img src="https://imgur.com/TuEXhFx.png">
+<img src="https://imgur.com/TuEXhFx.png" width=300>
+Technology Stack
+
+Android Studio
+<img src ="https://imgur.com/WhndAXV.png" width=300>
