@@ -1,4 +1,4 @@
-
+About Aplication
 
 An application that makes it easy to buy online bus tickets Without waiting in lines and with one click it solves everything
 I had some basis from last year but I changed everything and almost made a brand new application (the basis was for a taxi, and this is for bus tickets)
